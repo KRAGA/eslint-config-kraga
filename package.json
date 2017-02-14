@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-kraga",
+  "version": "1.0.0",
+  "description": "ESLint shared configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRAGA/eslint-config-kraga.git"
+  },
+  "keywords": [
+    "kraga",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Gergely Králik <gergely.kralik@kraga.sk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KRAGA/eslint-config-kraga/issues"
+  },
+  "homepage": "https://github.com/KRAGA/eslint-config-kraga#readme"
+}
